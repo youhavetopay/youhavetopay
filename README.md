@@ -1,4 +1,5 @@
-## 🤑 🤪 You have to Pay 🤪 🤑 
+🤑 🤪 Wellcome!! You have to Pay 🤪 🤑 
+===
 <img src="readme_Img/youhavetopay_ver1.PNG" width="417px" ></img>  <img src="readme_Img/youhavetopay_ver2.PNG" width="400px"></img>
 
 ## I WANT..?🙏🙏
