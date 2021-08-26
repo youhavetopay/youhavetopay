@@ -6,9 +6,11 @@
 Back End Developer
 
 ## I CAN DO!! 💪💪
--Node.js Express   
--Spring (Studying) 📖   
--MySQL
+### server
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">    
+
+### DataBase
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 
 ## MY Record^^ 📜
 - 2016.03 ~ Dongseo University    
@@ -19,8 +21,8 @@ Back End Developer
 
 # Thank YOU :) 😁🖐
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youhavetopay&show_icons=true&theme=radical)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youhavetopay&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youhavetopay&theme=dracula&layout=compact)](https://github.com/youhavetopay/youhavetopay)
 <!--
 **youhavetopay/youhavetopay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
