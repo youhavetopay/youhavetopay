@@ -28,7 +28,7 @@ Back End Developer
 # Thank YOU :) 😁🖐
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youhavetopay&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youhavetopay&theme=dracula&layout=compact)](https://github.com/youhavetopay/youhavetopay)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=fldhsfk)](https://solved.ac/fldhsfk)
 <!--
 **youhavetopay/youhavetopay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
