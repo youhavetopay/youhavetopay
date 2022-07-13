@@ -25,6 +25,9 @@ Back End Developer
 
 - 2019.09.10 AWS Cloud in Busan DeepRacer League 2019 3rd place 🥉
 
+- 2021.10 Development a Meal Support System for the Visually Impaired Using YOLO Algorithm
+<br> https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002772204
+
 # Thank YOU :) 😁🖐
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youhavetopay&show_icons=true&theme=dracula)
