@@ -28,7 +28,7 @@ Back End Developer
 - 2021.10 Development a Meal Support System for the Visually Impaired Using YOLO Algorithm
 <br> https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002772204
 
-- 2022 NAVER Connect Foundation boostcamp Web & Mobile 7th Web FullStack ~   
+- 2022.07 ~ NAVER Connect Foundation boostcamp Web & Mobile 7th Web FullStack   
 
 # Thank YOU :) 😁🖐
 
