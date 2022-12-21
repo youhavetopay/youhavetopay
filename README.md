@@ -13,7 +13,7 @@ Back End Developer
 - 2021.10 YOLO알고리즘을 활용한 시각장애인용 식사보조 시스템 개발
 <br> https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002772204
 
-- 2022.07 ~ 네이버 커넥트재단 부스트캠프 웹 & 모바일 7기 웹 풀스택
+- 2022.07 ~ 2022.12 네이버 커넥트재단 부스트캠프 웹 & 모바일 7기 웹 풀스택
 
 ## project
 ### Socket.io와 WebRTC를 활용한 그림그리기 게임
