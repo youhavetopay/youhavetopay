@@ -33,7 +33,7 @@ Back End Developer
 
 # Thank YOU :) 😁🖐
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youhavetopay&show_icons=true&theme=dracula)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youhavetopay&show_icons=true&theme=dracula)](https://github.com.anuraghazra/github-readme-stats)
 <br>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=fldhsfk)](https://solved.ac/fldhsfk)
